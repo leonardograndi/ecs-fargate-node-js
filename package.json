@@ -1,0 +1,15 @@
+{
+  "name": "ecs-fargate-node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": "https://github.com/leonardograndi/ecs-fargate-node-js.git",
+  "author": "Leonardo Grandi <leonardograndi>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
